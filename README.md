@@ -24,7 +24,7 @@ How to get started with the project?
 - Run the application to access the login screen.
 - After logging in, start managing student records using the GUI.
 
-Technologies Used
+Technologies Used:
 
 - Python: For building the application interface and backend.
 - MySQL: For storing and managing student data.
