@@ -23,6 +23,7 @@ How to get started with the project?
 - Clone the repository and set up the MySQL database.
 - Run the application to access the login screen.
 - After logging in, start managing student records using the GUI.
+- After running the application, you can verify that the `student` table in the `mydata` database has been updated by executing the following SQL query in your MySQL console: SELECT * FROM mydata.student;
 
 Technologies Used:
 
